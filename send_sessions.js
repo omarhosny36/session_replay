@@ -1,5 +1,5 @@
-//  send_sessions.js  ——  node send_sessions.js  (ONE session per request)
-//  HOSNY fixed: two Crashing → OOM, two Satisfying → normal.
+//  send_sessions.js   to run:   node send_sessions.js  
+//  fixed, last Version
 
 import axios from "axios";
 import fs    from "fs";
